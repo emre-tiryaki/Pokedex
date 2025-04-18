@@ -1,6 +1,8 @@
 # Pokedex Project
 
 This is a simple Pokedex web application that fetches and displays data for 200 Pokémon using the [PokeAPI](https://pokeapi.co/). The project includes basic search functionality and a loading indicator while data is being fetched.
+### Lookup
+https://tiryakiemre.netlify.app
 
 ## Files
 
